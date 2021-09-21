@@ -40,8 +40,8 @@ Want to run in your local Machine? Great!
 To run, follow these steps:
 
 - Clone my repository (`git clone https://github.com/singhabhishek6/TataCLiQ-Clone.git`)
-- Install packages (`npm install`)
-- Run the app (`npm start / yarn start`)
+- Install live server in vs code
+- Open with live server.
 
 
 ## Built with 
